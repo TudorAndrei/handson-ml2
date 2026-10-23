@@ -17,7 +17,7 @@ scikit-learn==0.22
 xgboost==1.0.2
 
 # Optional: the transformers library is only using in chapter 16
-transformers==2.8.0
+transformers==5.10.1
 
 ##### TensorFlow-related packages
 
@@ -61,7 +61,7 @@ tf-agents==0.3.0
 
 ##### Image manipulation
 imageio==2.6.1
-Pillow==7.0.0
+Pillow==13.0.0
 scikit-image==0.16.2
 graphviz==0.13.2
 pydot==1.4.1
@@ -78,7 +78,7 @@ pyglet==1.5.0
 joblib==0.14.1
 
 # Easy http requests
-requests==2.23.0
+requests==2.34.2
 
 # Nice utility to diff Jupyter Notebooks.
 nbdime==2.0.0
@@ -89,7 +89,7 @@ numexpr==2.7.1
 
 # Optional: these libraries can be useful in the classification chapter,
 # exercise 4.
-nltk==3.4.5
+nltk==3.10.4
 urlextract==0.14.0
 
 # Optional: these libraries are only used in chapter 16
